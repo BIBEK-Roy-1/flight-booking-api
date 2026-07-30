@@ -1,0 +1,20 @@
+{
+  "name": "flight-booking-api",
+  "version": "1.0.0",
+  "description": "RESTful Flight Booking System using Node.js, Express.js and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIBEK-Roy-1/flight-booking-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BIBEK-Roy-1/flight-booking-api/issues"
+  },
+  "homepage": "https://github.com/BIBEK-Roy-1/flight-booking-api#readme"
+}
